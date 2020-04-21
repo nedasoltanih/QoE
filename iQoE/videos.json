@@ -1,0 +1,17 @@
+{
+    "file": "videos.csv",
+    "separator": ",",
+    "attributes": 
+    [
+        "VideoID",
+        "Genre",
+        "Theme"
+    ],
+    "types": 
+    [
+        "str",
+        "str",
+        "str"
+    ],
+    "id_label": "VideoID"
+}

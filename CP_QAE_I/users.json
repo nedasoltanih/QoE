@@ -1,0 +1,40 @@
+{
+    "file": "users.csv",
+    "separator": ",",
+    "attributes": 
+    [
+        "ID",
+        "GENDER",
+        "YEAR_OF_BIRTH",
+        "NATIONALITY",
+        "EXTRAVERSION",
+        "AGREEABLENESS",
+        "CONSCIENTIOUSNESS",
+        "NEUROTICISM",
+        "OPENNESS",
+        "POWER_DISTANCE",
+        "INDIVIDUALISM",
+        "MASCULINITY",
+        "UNCERTAINTY_AVOIDANCE",
+        "PRAGMATISM",
+        "INDULGENCE"
+    ],
+    "types":[
+        "int", 
+        "int",
+        "int",             
+        "str",             
+        "int",             
+        "int",             
+        "int",             
+        "int",             
+        "int",             
+        "int",             
+        "int",             
+        "int",             
+        "int",
+        "int",
+        "int"
+    ],
+    "id_label": "ID"
+}

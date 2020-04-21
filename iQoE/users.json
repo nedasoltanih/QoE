@@ -1,0 +1,44 @@
+{
+    "file": "users.csv",
+    "separator": ",",
+    "attributes": 
+    [
+        "UserID",
+        "gender",
+        "nationality",
+        "ITQ",
+        "I_Comedy",
+        "I_Education",
+        "I_Sports",
+        "P_Extraverted",
+        "P_Critical",
+        "P_Dependable",
+        "P_Anxious",
+        "P_Open",
+        "P_Reserved",
+        "P_Sympathetic",
+        "P_Disorganized",
+        "P_Clam",
+        "P_Conventional"
+    ],
+    "types":[
+        "str", 
+        "int",
+        "str",             
+        "int",             
+        "int",             
+        "int",             
+        "int",             
+        "int",             
+        "int",             
+        "int",             
+        "int",             
+        "int",             
+        "int",
+        "int",
+        "int",
+        "int",
+        "int"
+    ],
+    "id_label": "UserID"
+}

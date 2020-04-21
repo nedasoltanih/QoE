@@ -1,0 +1,138 @@
+{
+    "file": "u_ratings.csv",
+    "separator": ",",
+    "attributes": [
+        "ID",
+        "VIDEO_CONTENT",
+        "ENJOYMENT",
+        "PERCEIVED_QUALITY",
+        "INTEREST",
+        "JOY",
+        "SAD",
+        "ANGRY",
+        "FEARFUL",
+        "ANXIOUS",
+        "DISGUST",
+        "DISDAIN",
+        "SUPRISE",
+        "WARM",
+        "LOVING",
+        "GUILTY",
+        "MOVED",
+        "SATISFIED",
+        "CALM",
+        "ASHAMED",
+        "POSITIVE_EMOTION",
+        "NEGATIVE_EMOTION"
+    ],
+    "types": [
+        "int",
+        "str",
+        "int",
+        "int",
+        "int",
+        "int",
+        "int",
+        "int",
+        "int",
+        "int",
+        "int",
+        "int",
+        "int",
+        "int",
+        "int",
+        "int",
+        "int",
+        "int",
+        "int",
+        "int",
+        "float",
+        "float"
+    ],
+    "id_label": "QoE",
+    "average_columns": {
+        "ENJOYMENT": [
+            "ENJOYMENT"
+        ],
+        "PERCEIVED_QUALITY": [
+            "PERCEIVED_QUALITY"
+        ],
+        "INTEREST": [
+            "INTEREST"
+        ],
+        "JOY": [
+            "JOY"
+        ],
+        "SAD": [
+            "SAD"
+        ],
+        "ANGRY": [
+            "ANGRY"
+        ],
+        "FEARFUL": [
+            "FEARFUL"
+        ],
+        "ANXIOUS": [
+            "ANXIOUS"
+        ],
+        "DISGUST": [
+            "DISGUST"
+        ],
+        "DISDAIN": [
+            "DISDAIN"
+        ],
+        "SUPRISE": [
+            "SUPRISE"
+        ],
+        "WARM": [
+            "WARM"
+        ],
+        "LOVING": [
+            "LOVING"
+        ],
+        "GUILTY": [
+            "GUILTY"
+        ],
+        "MOVED": [
+            "MOVED"
+        ],
+        "SATISFIED": [
+            "SATISFIED"
+        ],
+        "CALM": [
+            "CALM"
+        ],
+        "ASHAMED": [
+            "ASHAMED"
+        ],
+        "POSITIVE_EMOTION": [
+            "POSITIVE_EMOTION"
+        ],
+        "NEGATIVE_EMOTION": [
+            "NEGATIVE_EMOTION"
+        ],
+        "General_positive_feelings": [
+            "ENJOYMENT",
+            "PERCEIVED_QUALITY",
+            "INTEREST",
+            "JOY",
+            "SUPRISE",
+            "WARM",
+            "LOVING",
+            "MOVED",
+            "SATISFIED",
+            "CALM"
+        ],
+        "General_negative_feelings": [
+            "SAD",
+            "ANGRY",
+            "FEARFUL",
+            "ANXIOUS",
+            "DISGUST",
+            "DISDAIN",
+            "SUPRISE",
+            "GUILTY",
+            "ASHAMED"
+        ]
+    }
+}

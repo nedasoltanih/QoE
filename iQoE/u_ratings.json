@@ -1,0 +1,108 @@
+{
+    "comments": "removed OS2 and I_3 as they were negative feelings about the video",
+    "file": "u_ratings.csv",
+    "separator": ",",
+    "attributes": [
+        "UserID",
+        "Social",
+        "Bitrate",
+        "VideoID",
+        "OS1",
+        "OS2",
+        "E_1",
+        "E_2",
+        "E_3",
+        "E_4",
+        "S_1",
+        "S_2",
+        "S_3",
+        "S_4",
+        "En_1",
+        "En_2",
+        "En_3",
+        "En_4",
+        "I_1",
+        "I_2",
+        "I_3",
+        "I_4"
+    ],
+    "types": [
+        "str",
+        "int",
+        "int",
+        "str",
+        "float",
+        "float",
+        "float",
+        "float",
+        "float",
+        "float",
+        "float",
+        "float",
+        "float",
+        "float",
+        "float",
+        "float",
+        "float",
+        "float",
+        "float",
+        "float",
+        "float",
+        "float"
+    ],
+    "id_label": "",
+    "average_columns": {
+        "video_quality": [
+            "OS1"
+        ],
+        "impairments": [
+            "OS2"
+        ],
+        "involvement": [
+            "I_1",
+            "I_2",
+            "I_4"
+        ],
+        "enjoyment": [
+            "E_1",
+            "E_2",
+            "E_3",
+            "E_4"
+        ],
+        "endurability": [
+            "En_1",
+            "En_2",
+            "En_3",
+            "En_4"
+        ],
+        "satisfaction": [
+            "S_1",
+            "S_2",
+            "S_3",
+            "S_4"
+        ],
+        "General_positive_feelings": [
+            "OS1",
+            "I_1",
+            "I_2",
+            "I_4",
+            "E_1",
+            "E_2",
+            "E_3",
+            "E_4",
+            "En_1",
+            "En_2",
+            "En_3",
+            "En_4",
+            "S_1",
+            "S_2",
+            "S_3",
+            "S_4"
+        ],
+        "other_removables": [
+            "I_3",
+            "Social",
+            "Bitrate"
+        ]
+    }
+}

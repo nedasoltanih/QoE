@@ -1,0 +1,18 @@
+{
+    "file": "videos.csv",
+    "separator": ",",
+    "attributes": 
+    [
+        "VIDEO_CONTENT",
+        "VIDEO_FRAME_RATE",
+        "VIDEO_SIZE",
+        "VIDEO_BIT_RATE"
+    ],
+    "types":[
+        "str", 
+        "int",
+        "int",             
+        "int"
+    ],
+    "id_label": "VIDEO_CONTENT"
+}
